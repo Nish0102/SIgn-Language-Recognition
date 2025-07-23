@@ -1,0 +1,4 @@
+# Placeholder - actual dependencies will be added later
+tensorflow
+opencv-python
+numpy
